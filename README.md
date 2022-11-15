@@ -10,7 +10,7 @@ Context
 For XML-formatted submissions this tool can be used to transform it into 
 the Cancer Data Service (CDS) based format.
 
-For the Cancer Data Services - part of the Cancer Research Data Commons
+For the Cancer Data Service, part of the Cancer Research Data Commons
 https://datacommons.cancer.gov/repository/cancer-data-service
 
 
